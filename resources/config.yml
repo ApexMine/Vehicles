@@ -1,0 +1,22 @@
+#prices
+pride: 3500000
+bus: 6000000
+camaro: 6000000
+yamaha_rx115: 3000000
+db5: 4000000
+mazda_rx7: 4000000
+d240z: 4500000
+tosca: 1
+helicopter: 1
+jeep: 2900000
+nr34: 1
+cybertruck: 1
+lamborghini554: 1
+bmw_m3_nfs: 1
+stealth_fighter: 1
+car_police: 1
+mrap: 1
+
+
+#world
+world: RolePlay
